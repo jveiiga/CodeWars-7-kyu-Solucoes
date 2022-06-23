@@ -14,4 +14,4 @@ function countChar(str, char) {
     return res
   
 }
-console.log(countChar("fizzbuzz", "z"))  
+console.log(countChar("fizzbuzz", "z"));
