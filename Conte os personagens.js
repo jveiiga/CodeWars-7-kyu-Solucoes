@@ -4,7 +4,7 @@ function countChar(str, char) {
     
     for( let i = 0; i < str.length; i++ ) {
     
-        if( str[i].toLowerCase() === char || str[i].toUpperCase() === char) {
+        if( str[i].toLowerCase() === char || str[i].toUpperCase() === char ) {
 
             res += str[i].length
 
@@ -14,4 +14,4 @@ function countChar(str, char) {
     return res
   
 }
-console.log(countChar("fizzbuzz", "z"))
+console.log(countChar("fizzbuzz", "z"))  
