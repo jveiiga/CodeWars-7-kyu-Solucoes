@@ -16,7 +16,7 @@ function cookingTime(eggs) {
 }
       
 
-console.log(cookingTime(0))
-console.log(cookingTime(5))
-console.log(cookingTime(10))
+console.log(cookingTime(0));
+console.log(cookingTime(5));
+console.log(cookingTime(10));
 
